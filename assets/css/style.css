@@ -1,0 +1,58 @@
+.display-3 {
+  text-align: center;
+}
+
+.lead {
+  text-align: center;
+  font-weight: bold;
+}
+
+.redtext {
+  color: red;
+  font-weight: bold;
+}
+
+.italictext {
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.rapper-button {
+  margin: 3px;
+}
+
+#all-buttons {
+  text-align: center;
+}
+
+#form-error {
+  font-size: 0.8rem;
+  color: red;
+  text-align: center;
+}
+
+#gifs-message {
+  font-size: 0.8rem;
+  color: red;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  padding-top: 2px;
+}
+
+.jumbotron {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.gif-image {
+  margin: 3px;
+}
+
+#all-gifs {
+  text-align: center;
+}
